@@ -1,5 +1,5 @@
 on:push
-job:
+jobs:
  build:
    runs_on: ubuntu-latest
    steps:
